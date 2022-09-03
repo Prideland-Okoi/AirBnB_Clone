@@ -1,4 +1,6 @@
-rent class that will inherit
+#!/usr/bin/python3
+"""
+Parent class that will inherit
 """
 import uuid
 from datetime import datetime
@@ -54,4 +56,3 @@ class BaseModel:
         new_dict['__class__'] = self.__class__.__name__
 
         return new_dict
-

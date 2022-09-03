@@ -1,4 +1,6 @@
-er creation class
+#!/usr/bin/python3
+"""
+User creation class
 """
 from models.base_model import BaseModel
 

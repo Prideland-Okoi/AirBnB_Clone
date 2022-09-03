@@ -1,6 +1,6 @@
 # AirBnB Clone
 
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/d2d06462824fab5846f3.png"
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/d2d06462824fab5846f3.png" width="400pix"/>
 
 ## Resources
 Read or watch:

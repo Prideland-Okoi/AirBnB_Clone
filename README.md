@@ -1,6 +1,6 @@
 # AirBnB Clone
 
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/d2d06462824fab5846f3.png" width="400pix"/>
+<img src="https://codelabs.developers.google.com/static/codelabs/cloud-functions-python-http/img/a7aaf656b78050fd.png" width="400px"/>
 
 ## Resources
 Read or watch:

@@ -1,7 +1,9 @@
 # 0x01. AirBnB clone - Web static
-
+---
 <img src="https://image.shutterstock.com/image-vector/vector-collection-web-development-shield-600w-1757407325.jpg" width="600px"/>
+
 ## Resources
+
 Read or watch:
 
 * [Learn to Code HTML & CSS (until “Creating Lists” included)](https://learn.shayhowe.com/html-css/)
@@ -14,7 +16,7 @@ Read or watch:
 * [center boxes](https://css-tricks.com/centering-css-complete-guide/)
 
 
-
+---
 ### [0. Inline styling](./0-index.html)
 * Write an HTML page that displays a header and a footer.
 ### [1. Head styling](./1-index.html)
